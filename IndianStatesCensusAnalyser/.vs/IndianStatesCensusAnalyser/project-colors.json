@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfd54c76-a9fc-4dd0-bb0f-55ae6617b215": {
+      "ProjectGuid": "bfd54c76-a9fc-4dd0-bb0f-55ae6617b215",
+      "DisplayName": "IndianStatesCensusAnalyser",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

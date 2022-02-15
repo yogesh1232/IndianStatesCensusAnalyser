@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Steeltoe.Management.OpenCensus/2.5.5": {
+        "type": "package",
+        "dependencies": {
+          "Steeltoe.Management.OpenCensus.Abstractions": "2.5.5",
+          "System.Collections.Immutable": "1.6.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Steeltoe.Management.OpenCensus.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Steeltoe.Management.OpenCensus.dll": {}
+        }
+      },
+      "Steeltoe.Management.OpenCensus.Abstractions/2.5.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Steeltoe.Management.OpenCensus.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Steeltoe.Management.OpenCensus.Abstractions.dll": {}
+        }
+      },
+      "System.Collections.Immutable/1.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Steeltoe.Management.OpenCensus/2.5.5": {
+      "sha512": "jNPGRRoeHa3cZ/6AQFwrr8bJmY6oQf4Cqp3ZiqrMN0qsOQ4MkWls07W8nEp9DmOd963pADherZqvugorkzk3FQ==",
+      "type": "package",
+      "path": "steeltoe.management.opencensus/2.5.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net46/Steeltoe.Management.OpenCensus.dll",
+        "lib/netstandard2.0/Steeltoe.Management.OpenCensus.dll",
+        "steeltoe.management.opencensus.2.5.5.nupkg.sha512",
+        "steeltoe.management.opencensus.nuspec"
+      ]
+    },
+    "Steeltoe.Management.OpenCensus.Abstractions/2.5.5": {
+      "sha512": "7cRZ7GX1vpLkarI4xI0nUlk0my0GiMlY2Y5jwUz+wa1em1EGlFolLBxp3IL8M2nCuzzjFXjeWluz3C4NtTpOlg==",
+      "type": "package",
+      "path": "steeltoe.management.opencensus.abstractions/2.5.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Steeltoe.Management.OpenCensus.Abstractions.dll",
+        "lib/netstandard2.0/Steeltoe.Management.OpenCensus.Abstractions.dll",
+        "steeltoe.management.opencensus.abstractions.2.5.5.nupkg.sha512",
+        "steeltoe.management.opencensus.abstractions.nuspec"
+      ]
+    },
+    "System.Collections.Immutable/1.6.0": {
+      "sha512": "+aL946rTSJyo4PqstwsVZ5RBfaxfkIx+nTMfpmaxzorqgifRJwndBZhXPWNWGJpys7cQ1/vCvilYN9ugM05JFA==",
+      "type": "package",
+      "path": "system.collections.immutable/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard1.0/System.Collections.Immutable.dll",
+        "lib/netstandard1.0/System.Collections.Immutable.xml",
+        "lib/netstandard1.3/System.Collections.Immutable.dll",
+        "lib/netstandard1.3/System.Collections.Immutable.xml",
+        "lib/netstandard2.0/System.Collections.Immutable.dll",
+        "lib/netstandard2.0/System.Collections.Immutable.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.xml",
+        "system.collections.immutable.1.6.0.nupkg.sha512",
+        "system.collections.immutable.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Steeltoe.Management.OpenCensus >= 2.5.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sanjay\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sanjay\\source\\repos\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser.csproj",
+      "projectName": "IndianStatesCensusAnalyser",
+      "projectPath": "C:\\Users\\sanjay\\source\\repos\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser.csproj",
+      "packagesPath": "C:\\Users\\sanjay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanjay\\source\\repos\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sanjay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Steeltoe.Management.OpenCensus": {
+            "target": "Package",
+            "version": "[2.5.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

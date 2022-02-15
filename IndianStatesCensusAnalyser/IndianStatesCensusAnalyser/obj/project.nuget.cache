@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "30/yMXXepyF18usREhy0a8NfHqbVPtyzpuBjGGJdS6GrqtFAF8CwSDtgUxf2KklDRABZf4Q3/6D3cAwF8kGS5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanjay\\source\\repos\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanjay\\.nuget\\packages\\steeltoe.management.opencensus\\2.5.5\\steeltoe.management.opencensus.2.5.5.nupkg.sha512",
+    "C:\\Users\\sanjay\\.nuget\\packages\\steeltoe.management.opencensus.abstractions\\2.5.5\\steeltoe.management.opencensus.abstractions.2.5.5.nupkg.sha512",
+    "C:\\Users\\sanjay\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
