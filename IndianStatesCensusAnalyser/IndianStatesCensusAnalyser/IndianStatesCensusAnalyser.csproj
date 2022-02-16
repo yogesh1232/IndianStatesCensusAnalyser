@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTO\" />
-    <Folder Include="POCO\" />
+    <PackageReference Include="Steeltoe.Management.OpenCensus" Version="2.5.5" />
   </ItemGroup>
 
 </Project>

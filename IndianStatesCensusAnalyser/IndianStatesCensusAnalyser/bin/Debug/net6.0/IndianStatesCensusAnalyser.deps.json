@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IndianStatesCensusAnalyser/1.0.0": {
+        "dependencies": {
+          "Steeltoe.Management.OpenCensus": "2.5.5"
+        },
+        "runtime": {
+          "IndianStatesCensusAnalyser.dll": {}
+        }
+      },
+      "Steeltoe.Management.OpenCensus/2.5.5": {
+        "dependencies": {
+          "Steeltoe.Management.OpenCensus.Abstractions": "2.5.5",
+          "System.Collections.Immutable": "1.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Steeltoe.Management.OpenCensus.dll": {
+            "assemblyVersion": "2.5.5.0",
+            "fileVersion": "2.5.5.0"
+          }
+        }
+      },
+      "Steeltoe.Management.OpenCensus.Abstractions/2.5.5": {
+        "runtime": {
+          "lib/netstandard2.0/Steeltoe.Management.OpenCensus.Abstractions.dll": {
+            "assemblyVersion": "2.5.5.0",
+            "fileVersion": "2.5.5.0"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.6.0": {}
+    }
+  },
+  "libraries": {
+    "IndianStatesCensusAnalyser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Steeltoe.Management.OpenCensus/2.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jNPGRRoeHa3cZ/6AQFwrr8bJmY6oQf4Cqp3ZiqrMN0qsOQ4MkWls07W8nEp9DmOd963pADherZqvugorkzk3FQ==",
+      "path": "steeltoe.management.opencensus/2.5.5",
+      "hashPath": "steeltoe.management.opencensus.2.5.5.nupkg.sha512"
+    },
+    "Steeltoe.Management.OpenCensus.Abstractions/2.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7cRZ7GX1vpLkarI4xI0nUlk0my0GiMlY2Y5jwUz+wa1em1EGlFolLBxp3IL8M2nCuzzjFXjeWluz3C4NtTpOlg==",
+      "path": "steeltoe.management.opencensus.abstractions/2.5.5",
+      "hashPath": "steeltoe.management.opencensus.abstractions.2.5.5.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+aL946rTSJyo4PqstwsVZ5RBfaxfkIx+nTMfpmaxzorqgifRJwndBZhXPWNWGJpys7cQ1/vCvilYN9ugM05JFA==",
+      "path": "system.collections.immutable/1.6.0",
+      "hashPath": "system.collections.immutable.1.6.0.nupkg.sha512"
+    }
+  }
+}

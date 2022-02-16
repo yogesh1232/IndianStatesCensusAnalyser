@@ -5,7 +5,12 @@
       "ProjectGuid": "bfd54c76-a9fc-4dd0-bb0f-55ae6617b215",
       "DisplayName": "IndianStatesCensusAnalyser",
       "ColorIndex": 0
+    },
+    "c16612a9-5171-4850-81bd-4ca213c19d76": {
+      "ProjectGuid": "c16612a9-5171-4850-81bd-4ca213c19d76",
+      "DisplayName": "CensusAnalyserTest",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
